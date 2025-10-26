@@ -1,0 +1,18 @@
+PHISHING
+***************************************************
+When identifying phishing characteristics in a suspicious email, look for the following red flags:
+
+1. Urgent or threatening tone: Phishing emails often try to create a sense of urgency or panic to prompt immediate action.
+2. Suspicious sender: Check the sender's email address. Legitimate emails usually come from a company's official domain, not a generic or suspicious-looking address.
+3. Generic greeting: Phishing emails often use generic greetings like "Dear customer" instead of addressing you by name.
+4. Spelling and grammar errors: Legitimate emails usually don't have typos or grammatical errors.
+5. Suspicious links or attachments: Be cautious of links or attachments that ask you to download software, provide login credentials, or reveal sensitive information.
+6. Request for sensitive information: Legitimate companies rarely ask for sensitive information like passwords, credit card numbers, or personal data via email.
+7. Mismatched or fake URLs: Check the URL of any links to ensure they match the company's official website.
+8. Lack of personalization: Phishing emails often lack personalization or specific details that a legitimate company would know about you.
+
+If you identify any of these characteristics, it's best to:
+
+- Delete the email
+- Not click on any links or attachments
+- Verify the email's authenticity with the company directly
